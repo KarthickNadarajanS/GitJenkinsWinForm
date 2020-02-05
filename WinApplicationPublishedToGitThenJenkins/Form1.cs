@@ -19,7 +19,7 @@ namespace WinApplicationPublishedToGitThenJenkins
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Button1 Cli");
+            Console.WriteLine("Button1 Cl");
         }
 
         private void Form1_Load(object sender, EventArgs e)
